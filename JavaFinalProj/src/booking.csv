@@ -1,0 +1,19 @@
+bookingId,customerName,hotelName,checkInDate,checkOutDate,paymentStatus
+1,Kaspers Schmeichel,Grand Hotel,2023-12-05,2023-12-08,not paid
+2,Jane Smith,Beachfront Paradise,2023-12-10,2023-12-15,paid
+3,Michael Johnson,Mountain View Lodge,2023-12-20,2023-12-25,paid
+4,Sarah Williams,Seaside Resort,2023-12-07,2023-12-09,not paid
+5,David Brown,City Center Hotel,2023-12-17,2023-12-20,paid
+6,Emma Davis,Beachfront Paradise,2023-12-22,2023-12-26,not paid
+7,Matthew Wilson,Grand Hotel,2023-12-10,2023-12-12,paid
+8,Olivia Garcia,City Center Hotel,2023-12-12,2023-12-15,paid
+9,William Rodriguez,Seaside Resort,2023-12-19,2023-12-22,not paid
+10,Sophia Martinez,Mountain View Lodge,2023-12-21,2023-12-25,paid
+11,Alexander Hernandez,Grand Hotel,2023-12-14,2023-12-17,not paid
+12,Mia Lopez,City Center Hotel,2023-12-08,2023-12-11,paid
+13,Daniel Gonzalez,Seaside Resort,2023-12-23,2023-12-27,not paid
+14,Isabella Perez,Beachfront Paradise,2023-12-18,2023-12-21,paid
+15,James Carter,Mountain View Lodge,2023-12-13,2023-12-16,not paid
+16,Sofia Torres,Grand Hotel,2023-12-09,2023-12-12,paid
+17,Lucas King,City Center Hotel,2023-12-16,2023-12-19,paid
+18,Amelia Adams,Seaside Resort,2023-12-11,2023-12-14,not paid

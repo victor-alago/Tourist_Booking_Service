@@ -1,0 +1,19 @@
+hotelId,name,location,pricePerDay,rating,availableRooms
+101,Grand Hotel,Athens,120,4.6,50
+102,Seaside Resort,Miami,180,4.8,30
+103,Mountain View Lodge,Switzerland,200,4.5,20
+104,City Center Hotel,New York,502,4.4,40
+105,Beachfront Paradise,Phuket,90,4.7,60
+106,Luxury Oasis,Paris,510,4.9,25
+107,Sunrise Resort,Bali,110,4.3,35
+108,Riverfront Inn,Rome,140,4.6,28
+109,Tranquil Retreat,Barcelona,170,4.5,22
+110,Island Getaway,Maldives,300,4.9,18
+111,Alpine Haven,Switzerland,190,4.7,30
+112,Desert Mirage,Dubai,280,4.6,20
+113,Tropical Hideaway,Costa Rica,160,4.4,35
+114,Countryside Charm,Tuscany,130,4.5,40
+115,Coastal Serenity,Greece,100,4.8,50
+116,Urban Escape,Tokyo,200,4.6,25
+117,Historic Mansion,Edinburgh,220,4.7,15
+118,Meadow View Lodge,New Zealand,175,4.5,20
